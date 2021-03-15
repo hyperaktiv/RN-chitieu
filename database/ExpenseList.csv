@@ -1,0 +1,8 @@
+id,icon,name,money,category,datetime,date,month,note,createdAt
+1,gift,ăn uống,250000,expense,2020-10-18T00:37:43.942Z,2020-10-18,2020-10,Ăn uống với bạn bè,2020-11-18T00:37:43.942Z,
+2,rocket,mua táo,50000,expense,2020-10-17T00:37:43.942Z,2020-10-17,2020-10,,2020-11-17T00:37:43.942Z,
+3,bus,Vé xe,100000,expense,2020-10-05T00:37:43.942Z,2020-10-05,2020-10,Tiền đóng vé xe bus tháng,2020-11-18T00:37:43.942Z,
+4,tshirt,Mua quần áo,300000,expense,2020-11-10T00:37:43.942Z,2020-11-10,2020-11,Ăn uống với bạn bè,2020-11-18T00:37:43.942Z,
+5,book-open,Mua sách,170000,expense,2020-11-10T00:37:43.942Z,2020-11-10,2020-11,Mua 2 cuốn sách đọc thêm,2020-11-17T00:37:43.942Z,
+6,tint,Tiền điện,65000,expense,2020-11-20T00:37:43.942Z,2020-11-20,2020-11,Tiền điện tháng này,2020-11-17T00:37:43.942Z,
+7,money-bill,Lương,500000,income,2020-11-20T00:37:43.942Z,2020-11-20,2020-11,"Tiền lương đi làm, gửi qua thẻ MB. Tiền lương đi làm, gửi qua thẻ MB",2020-11-17T00:37:43.942Z,2020
